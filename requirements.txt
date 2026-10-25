@@ -1,0 +1,2 @@
+# No third-party Python libraries are needed for the host CLI.
+# Runtime requirements: Docker Engine and Docker Compose v2.
